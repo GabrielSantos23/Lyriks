@@ -114,18 +114,18 @@ Here we are going to focus on 2. Creating a Topical Branch:
    
    Use a standard convention for branch names. For example, `<your-name>-dev`. It will be easier to track your pull requests if you use this convention.
    
-   I'm going to create a new branch called `jsm-dev` from the `main` branch and push it to github.
+   I'm going to create a new branch called `GabrielSantos23` from the `main` branch and push it to github.
 
    ```bash
-    git checkout -b jsm-dev main
-    git push origin jsm-dev
+    git checkout -b GabrielSantos23 main
+    git push origin GabrielSantos23
    ```
 
 3. To create a pull request, you must have changes committed to your new branch.
 
 4. Go to [Pull Requests](https://github.com/JavaScript-Mastery-PRO/project1_team4_repository/pulls) and click on the `New Pull Request` button.
 
-5. Select the `main` branch as the `base` branch and the `jsm-dev` branch as the `compare` branch.
+5. Select the `main` branch as the `base` branch and the `GabrielSantos23` branch as the `compare` branch.
 
 6. Follow the template and fill in the proper information for the pull request.
 
